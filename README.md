@@ -14,7 +14,7 @@ This repository contains solutions and screenshots for the Linux commands assign
 ## Files in Repo
 - `secure.txt` – File with read-only permissions
 - `renamed_example.txt` – Renamed file
-- Screenshots folder – Contains all screenshots
+
 
 ## Document
 Assignment explanation and screenshots are included in [Google Doc](https://docs.google.com/document/d/1_3fmhlQcMNyN0lz0A-_vnY3qk6EicDS9xX2X-cTkIBA/edit?usp=drivesdk).
